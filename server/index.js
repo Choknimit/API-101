@@ -1,3 +1,3 @@
-const hello = 'Hello World'
+const name = 'My name'
 
-console.log(hello);
+console.log(name);
